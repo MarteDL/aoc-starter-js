@@ -1,8 +1,0 @@
-lijst met voorwaarden en paswoord
--> object {voorwaarde: paswoord}
-
-iterate through password-string
-check het aantal keer dat 'letter' in de string 'password' voorkomt
-check of dit aantal meer is dan minNum en minder dan maxNum
-
-Check het aantal keer dat de functie true returnt in de hele array 
